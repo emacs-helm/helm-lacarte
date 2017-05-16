@@ -25,6 +25,7 @@
 ;; lacarte.el contains safe source code.
 
 (require 'lacarte)
+(require 'helm-misc)
       
 ;;; Code:
 
